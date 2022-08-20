@@ -1,6 +1,6 @@
 # Feature-Engineering-Feature-Scaling
 
-1. Standardization (Z-score Normalization)
+**1.   Standardization (Z-score Normalization)**
 
 
 **Formula :  X  - MEAN / S.D**
@@ -20,7 +20,7 @@
         **Effect of outliers cannot be controlled**
 
 
-2. Normalization
+**2.   Normalization**
 
 **Formula :  xi  - xmin  /  xmax  -  xmin**
 

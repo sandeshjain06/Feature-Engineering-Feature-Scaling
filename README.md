@@ -18,7 +18,7 @@
 2. Normalization
 
         
-        Goal of Normalization is to change the values of numeric columns in dataset to use a common scale without distorting differences in range of values or losing             information
+        Goal of Normalization is to change the values of numeric columns in dataset to use a common scale without distorting differences in range of values or losing  information
 
         Formula : xi-xmin/xmax-xmin
         O/P will range in (0,1)

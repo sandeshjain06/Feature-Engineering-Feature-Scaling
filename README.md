@@ -4,6 +4,7 @@
 
 
 **Formula :  X  - MEAN / S.D**
+
 **Mean = 0 , S.D=1**
 
         We can use standardization in any of the case , there is no problem.
@@ -21,8 +22,10 @@
 
 2. Normalization
 
-        
+**Formula :  xi  - xmin  /  xmax  -  xmin**
+
+**O/P will range in (0,1)**
+
+
         Goal of Normalization is to change the values of numeric columns in dataset to use a common scale without distorting differences in range of values or losing  information
 
-**Formula : xi-xmin/xmax-xmin**
-**O/P will range in (0,1)**
